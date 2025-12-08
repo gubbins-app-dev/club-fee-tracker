@@ -1,53 +1,106 @@
 # Privacy Policy for "Club Fee Tracker" App
 
-**Effective Date:** October 26, 2025  
+**Effective Date:** October 26, 2025
 
-**Gubbins App Development ©** is committed to protecting your privacy.  
+Gubbins App Development © is committed to protecting your privacy.  
 This Privacy Policy explains how we handle your information when you use our mobile application (“App”).  
-Please read this policy carefully. By using the App, you agree to the terms outlined here.
+By using the App, you agree to the terms outlined here.
 
 ---
 
-## 1. No Collection of Personal Information
+## 1. Information We Collect
 
-We do not collect, store, or process any personally identifiable information (such as your name, email address, or phone number) while you use our App.
+While the App does not collect any personally identifiable information directly, it uses **Google AdMob** to display advertisements. Google AdMob may automatically collect:
 
----
+- Device identifiers (e.g., IDFA)
+- IP address
+- General device information (model, OS version)
+- App interaction and engagement data
+- Diagnostic and performance data
+- Approximate location (derived from network data)
 
-## 2. No Usage Data Collection
+This data is collected solely by Google, not by Gubbins App Development.
 
-Our App does not automatically collect any usage data, including:
-
-- IP addresses  
-- Device identifiers (such as model or operating system version)  
-- Browsing history or interaction with the App  
-- Performance or crash data  
-
----
-
-## 3. No Third-Party Data Sharing
-
-Since we do not collect any user information, no personal or usage data is shared with third parties, including service providers, advertisers, or analytics platforms.
+For more information on how Google uses this data:  
+https://policies.google.com/technologies/ads
 
 ---
 
-## 4. Data Security
+## 2. Personal Information
 
-Because we do not collect or store any personal information, there are no security risks related to the handling of personal data within the App.  
-However, we still recommend that you take general precautions to safeguard your device.
+We do **not** collect, store, or process personally identifiable information such as:
+
+- Name  
+- Email address  
+- Phone number  
+- Account details  
+
+The App includes no account system and requires no registration.
 
 ---
 
-## 5. Children’s Privacy
+## 3. Usage Data
 
-Our App is not directed towards children under the age of 13, and we do not knowingly collect any information from users of this age group.
+Aside from Google AdMob’s automatic data collection, the App does **not** collect:
+
+- Analytics or behavioural data  
+- Browsing history  
+- Crash logs  
+- Device-level metrics  
 
 ---
 
-## 6. Changes to This Privacy Policy
+## 4. Third-Party Data Sharing
 
-Although we do not collect any user information, we may update this Privacy Policy to reflect changes to our App or legal requirements.  
-We recommend that you review this policy periodically. Any changes will be posted within the App, and the “Effective Date” at the top of the policy will be updated accordingly.
+We do not collect or share any personal data.  
+Google may collect and process information independently for:
+
+- Delivering ads  
+- Personalising ads (if permitted by the user/device)  
+- Fraud prevention  
+- Measuring ad effectiveness  
+
+We do not have access to or control over this data.
+
+---
+
+## 5. Advertising and User Choices
+
+Ads in the App are served by Google AdMob.
+
+Users can manage advertising preferences through:
+
+- **iOS:** `Settings > Privacy > Tracking`  
+- Google advertising settings (depending on region)
+
+If tracking is disabled, ads will still appear but may be non-personalised.
+
+---
+
+## 6. Data Security
+
+We do not collect or store personal data.  
+Google AdMob processes its own collected data under its own security policies.  
+Users should take normal precautions to protect their devices.
+
+---
+
+## 7. Children’s Privacy
+
+The App is not directed toward children under 13, and we do not knowingly collect data from children.  
+Google AdMob uses settings compatible with child-safe advertising policies when applicable.
+
+---
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy due to changes in:
+
+- The App  
+- Third-party services  
+- Legal requirements  
+
+The “Effective Date” at the top of this document will be updated accordingly.
 
 ---
 
