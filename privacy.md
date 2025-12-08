@@ -1,6 +1,6 @@
 # Privacy Policy for "Club Fee Tracker" App
 
-**Effective Date:** October 26, 2025
+**Effective Date:** December 08, 2025
 
 Gubbins App Development © is committed to protecting your privacy.  
 This Privacy Policy explains how we handle your information when you use our mobile application (“App”).  
