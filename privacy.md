@@ -1,107 +1,66 @@
-# Privacy Policy for "Club Fee Tracker" App
+# Privacy Policy – Club Fee Tracker
 
-**Effective Date:** January 11, 2026
+**Effective date:** 30 October 2026
 
-Gubbins App Development © is committed to protecting your privacy.  
-This Privacy Policy explains how we handle your information when you use our mobile application (“App”).  
-By using the App, you agree to the terms outlined here.
+Gubbins App Development respects your privacy. This Privacy Policy explains what information Club Fee Tracker (the “App”) stores and how that information is handled when you use the App.
 
----
+## 1. Information you enter into the App
 
-## 1. Information We Collect
+Club Fee Tracker is designed to help you manage club, team, member and fee information. Depending on how you use the App, information you enter may include:
 
-While the App does not collect any personally identifiable information directly, it uses **Google AdMob** to display advertisements. Google AdMob may automatically collect:
+- Club names and descriptions
+- Team details
+- Member names and other member details you choose to enter
+- Fee amounts, payment status and related notes
 
-- Device identifiers (e.g., IDFA)
-- IP address
-- General device information (model, OS version)
-- App interaction and engagement data
-- Diagnostic and performance data
-- Approximate location (derived from network data)
+This information is used to provide the App’s features. The App does not require you to create an account or register with Gubbins App Development.
 
-This data is collected solely by Google, not by Gubbins App Development.
+The App stores its records locally on your device. It does not use iCloud, CloudKit or another cloud service to back up or synchronise your club, team, member or fee records. The App does not require an account with Gubbins App Development.
 
-For more information on how Google uses this data:  
-https://policies.google.com/technologies/ads
+Please avoid entering information that is not needed to manage your club. You are responsible for ensuring that you have an appropriate basis and permission to enter other people’s information, and for informing those people as required.
 
----
+## 2. Information collected by the developer
 
-## 2. Personal Information
+Gubbins App Development does not use TelemetryDeck, Google AdMob, or another in-app analytics or advertising service in Club Fee Tracker.
 
-We do **not** collect, store, or process personally identifiable information such as:
+The App does not send the club, team, member or fee records you enter to Gubbins App Development. We do not use the App to build advertising profiles or track you across other apps and websites.
 
-- Name  
-- Email address  
-- Phone number  
-- Account details  
+## 3. Third-party services and device backups
 
-The App includes no account system and requires no registration.
+The App does not integrate TelemetryDeck or Google AdMob, and it does not use iCloud or CloudKit for app data backup or synchronisation.
 
----
+## 4. Sharing and disclosure
 
-## 3. Usage Data
+Gubbins App Development does not sell, rent or share the information you enter into the App with advertisers or other organisations.
 
-Aside from Google AdMob’s automatic data collection, the App does **not** collect:
+If you choose to share information using features provided by your device or another app, that sharing is initiated by you and is subject to the relevant service’s terms and privacy policy.
 
-- Analytics or behavioural data  
-- Browsing history  
-- Crash logs  
-- Device-level metrics  
+## 5. Data retention and deletion
 
----
+The information you enter remains in the App’s local storage until you delete it within the App, where that option is available, or remove the App and its associated data from your device.
 
-## 4. Third-Party Data Sharing
+Because the App does not provide cloud backup or synchronisation, its app records are not maintained in an App-operated cloud account. Removing the App and its data from your device removes the locally stored records.
 
-We do not collect or share any personal data.  
-Google may collect and process information independently for:
+## 6. Data security
 
-- Delivering ads  
-- Personalising ads (if permitted by the user/device)  
-- Fraud prevention  
-- Measuring ad effectiveness  
+The App relies on the security features of your device and its operating system to help protect locally stored information. You should use an appropriate device passcode and keep your device and operating system up to date.
 
-We do not have access to or control over this data.
+No method of electronic storage is completely secure. You should consider this when deciding what information to enter.
 
----
+## 7. Children’s privacy
 
-## 5. Advertising and User Choices
+The App is a general club administration tool and is not specifically directed at children. Club administrators may enter information about members, including young members. They should do so only where they have the necessary authority or permission and should take particular care with children’s information.
 
-Ads in the App are served by Google AdMob.
+Gubbins App Development does not knowingly collect children’s information through the App.
 
-Users can manage advertising preferences through:
+## 8. Changes to this Privacy Policy
 
-- **iOS:** `Settings > Privacy > Tracking`  
-- Google advertising settings (depending on region)
+This Privacy Policy may be updated to reflect changes to the App or applicable requirements. Any revised version will be published at the location where this policy is made available, with an updated effective date.
 
-If tracking is disabled, ads will still appear but may be non-personalised.
+## 9. Contact
 
----
+For privacy questions about Club Fee Tracker, please contact Gubbins App Development through its website:
 
-## 6. Data Security
-
-We do not collect or store personal data.  
-Google AdMob processes its own collected data under its own security policies.  
-Users should take normal precautions to protect their devices.
-
----
-
-## 7. Children’s Privacy
-
-The App is not directed toward children under 13, and we do not knowingly collect data from children.  
-Google AdMob uses settings compatible with child-safe advertising policies when applicable.
-
----
-
-## 8. Changes to This Privacy Policy
-
-We may update this Privacy Policy due to changes in:
-
-- The App  
-- Third-party services  
-- Legal requirements  
-
-The “Effective Date” at the top of this document will be updated accordingly.
-
----
+https://gubbins-app-dev.github.io/
 
 © 2026 Gubbins App Development. All rights reserved.
